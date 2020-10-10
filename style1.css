@@ -1,0 +1,191 @@
+/* Elements */
+h1,
+p,
+li {
+  color: #393e46;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+  position: absolute;
+  border-radius: 50%;
+  margin-left: 625px;
+  border: 4px dotted #ffac41;
+  width: 150px;
+  height: 150px;
+}
+
+i {
+  display: inline-block;
+  border-radius: 50px;
+  padding: 0.6rem;
+  border: 4px dotted #ffac41;
+}
+
+table hr {
+  border: none;
+}
+
+td {
+  width: 700px;
+  padding: 0%;
+  margin: 0%;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+span {
+  margin-left: 300px;
+}
+
+/* Classes */
+
+.top-div {
+  background-color: #3a3a3a;
+  padding-top: 60px;
+  height: 200px;
+  width: 93%;
+  margin: 20px;
+  position: absolute;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.white-line {
+  background-color: lightgray;
+  padding: 20px;
+  margin-top: 130px;
+}
+
+.title-div {
+  position: absolute;
+  background-color: #ffac41;
+  padding: 5px 30px;
+  border-radius: 5px;
+  margin-left: 510px;
+  margin-top: 120px;
+}
+
+.title-name {
+  padding: 0%;
+  color: black;
+  margin: 0%;
+  font-size: 3rem;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 100;
+}
+
+.address-line {
+  margin-top: 40px;
+  margin-left: 360px;
+}
+
+.right {
+  right: 0;
+}
+
+.left {
+  left: 0;
+}
+
+.split {
+  height: 100%;
+  width: 40%;
+  margin: 0 7%;
+  position: absolute;
+}
+
+.small-txt {
+  margin: 0%;
+  padding: 0%;
+}
+
+.designation {
+  margin-bottom: 0%;
+}
+
+.skills {
+  margin-left: 170px;
+}
+
+/* Verticle Line */
+
+.vl {
+  border-left: 3px solid lightgrey;
+  height: 145vh;
+  position: absolute;
+  left: 50%;
+  margin-left: -3px;
+  top: 350px;
+}
+
+/* Skill Progress bar */
+
+.js hr {
+  width: 200px;
+  height: 8px;
+  background: linear-gradient(to right, #ffcc00 10%, #e0e0ec 70%);
+}
+
+.mongo hr {
+  width: 200px;
+  height: 8px;
+  background: linear-gradient(to right, #ffcc00 60%, #e0e0ec 70%);
+}
+
+.deploy hr {
+  width: 200px;
+  height: 8px;
+  background: linear-gradient(to right, #ffcc00 90%, #e0e0ec 95%);
+}
+
+.css hr {
+  width: 200px;
+  height: 8px;
+  background: linear-gradient(to right, #ffcc00 60%, #e0e0ec 70%);
+}
+.html hr {
+  width: 200px;
+  height: 8px;
+  background: linear-gradient(to right, #ffcc00 40%, #e0e0ec 50%);
+}
+
+.react hr {
+  width: 200px;
+  height: 8px;
+  background: linear-gradient(to right, #ffcc00 40%, #e0e0ec 50%);
+}
+
+.redux hr {
+  width: 200px;
+  height: 8px;
+  background: linear-gradient(to right, #ffcc00 60%, #e0e0ec 70%);
+}
+
+.pm hr {
+  width: 200px;
+  height: 8px;
+  background: linear-gradient(to right, #ffcc00 90%, #e0e0ec 95%);
+}
+
+.recruit hr {
+  width: 200px;
+  height: 8px;
+  background: linear-gradient(to right, #ffcc00 60%, #e0e0ec 70%);
+}
+
+.business hr {
+  width: 200px;
+  height: 8px;
+  background: linear-gradient(to right, #ffcc00 90%, #e0e0ec 95%);
+}
+.edit hr {
+  width: 200px;
+  height: 8px;
+  background: linear-gradient(to right, #ffcc00 60%, #e0e0ec 70%);
+}
+
+.fund hr {
+  width: 200px;
+  height: 8px;
+  background: linear-gradient(to right, #ffcc00 90%, #e0e0ec 95%);
+}
